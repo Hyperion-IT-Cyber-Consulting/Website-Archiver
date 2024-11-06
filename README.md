@@ -77,6 +77,7 @@ Compared to tools like HTTrack, this downloader:
 
     ```
     pip install -r requirements.txt
+    ```
 
 
 ## Usage
