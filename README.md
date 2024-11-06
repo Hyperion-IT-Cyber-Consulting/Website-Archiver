@@ -75,16 +75,15 @@ Compared to tools like HTTrack, this downloader:
 1. Clone this repository
 2. Install dependencies:
 
-    ```sh
+    
     pip install -r requirements.txt
-    ```
+
 
 ## Usage
 Run the script and enter the website URL when prompted:
 
-    ```sh
     python website-downloader.py
-    ```
+  
 
 The script will:
 1. Create a `website_files` directory in the script location
