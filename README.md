@@ -75,7 +75,7 @@ Compared to tools like HTTrack, this downloader:
 1. Clone this repository
 2. Install dependencies:
 
-    
+    ```
     pip install -r requirements.txt
 
 
